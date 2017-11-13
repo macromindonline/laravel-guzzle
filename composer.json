@@ -1,5 +1,5 @@
 {
-    "name": "kozz/laravel-guzzle-provider",
+    "name": "macromindonline/laravel-guzzle-provider",
     "description": "Guzzle Service Provider for Laravel 6",
     "keywords": ["laravel", "guzzle", "http"],
     "license": "MIT",
